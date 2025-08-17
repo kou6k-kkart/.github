@@ -18,7 +18,7 @@
   - `PULL_REQUEST_TEMPLATE.md`
 
 - فایل‌های نمونه برای Brand Assets:
-  - `brand-assets/colors.md`
+  - `brand-assets/colors/primary-color.md`
 
 ### استفاده از اسکریپت setup.sh
 ```bash
