@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://via.placeholder.com/200x80?text=Kou6k+Logo" alt="Kou6k Logo" />
-</p>
+<div align="center">
+  <img src="https://github.com/kou6k-kkart/.github/blob/main/assets/logos/kkart-logo-monochrome-white.svg" alt='KKArt! Logo' />
+</div>
 
 <h1 align="center">خوش آمدید به دنیای ⛫ کوشک هنر</h1>
 
