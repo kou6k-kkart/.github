@@ -21,7 +21,7 @@ Welcome to the official brand guide for KKArt. This document is the central hub 
 ### 🎨 Colors
 Our color palette is vibrant and energetic. Full details for each color are available in their respective files.
 
-- **[Primary: Magenta](https://coolors.co/ff1a9c)**
+- **[Primary: Magenta](https://coolors.co/ff1a9c)** **[Persian Rose]**
 - `HEX`: `FF1A9C`
 - **[Secondary: Indigo](https://coolors.co/4f19ff)**
 - `HEX`: `4F19FF`
